@@ -1,0 +1,58 @@
+Ativar as notificações na área de trabalho para o E-mail de Serviço Nacional de Aprendizagem Industrial.
+   OK  Agora não(a)
+Tentando conectar ao Chat...
+Se o problema persistir, saiba mais
+Conversas
+ 
+Regulamentos do programa
+Powered by Google
+Última atividade da conta: há 1 hora
+Detalhes
+	
+Pause as notificações para dispositivos móveis enquanto você estiver usando este dispositivo
+Se você quiser pausar as notificações para dispositivos móveis do Chat enquanto estiver usando este dispositivo, deixe o navegador detectar se ele está ativo ou não. Clique em Continuar e depois em Permitir quando você vir uma solicitação do navegador.
+
+header{
+    /* background-color: brown; */
+    /* color: beige; */
+    text-align: center;
+    font-size: 60pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+footer{
+    background-color: bisque;
+    font-size: 45pt;
+    text-align: center;
+}
+footer{
+    background-color: rgb(127, 157, 255);
+}
+
+.titulo-header {
+    position: relative;
+    top: -350px;
+    color: brown;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    
+}
+
+.titulo-body, .subtitulo-body{
+    color: brown;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60pt;
+}
+
+.subtitulo-body {
+    font-size: 30pt;
+    margin-top: -50px;
+}
+.valor-boby{ 
+    font-size:  30pt;
+ 
+}
